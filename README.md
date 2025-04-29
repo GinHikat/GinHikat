@@ -21,4 +21,10 @@ I'm currently studying Data Science <br>I want to become a professional Data Ana
 ---
 [![](https://visitcount.itsvg.in/api?id=GinHikat&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+### 🐍 GitHub Contribution Snake
+
+![GitHub Snake Light](https://raw.githubusercontent.com/GinHikat/GinHikat/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/GinHikat/GinHikat/output/github-snake-dark.svg#gh-dark-mode-only)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
