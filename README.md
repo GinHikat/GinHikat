@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying Data Science <br>I want to become a professional Data Analyst<br>My domain knowledge are AI and Finance
+I'm currently studying Data Science <br>I want to become a professional ML/AI Engineer<br>My domain knowledge are AI and Finance
 
 
 ## 🌐 Socials:
